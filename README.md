@@ -8,5 +8,7 @@ based on the player and cpu card player's score and cpu's score is updated.
 
 Here is project video 👇🏻
 
-https://github.com/parthkanani123/WarCardGame/assets/112791725/9b7ca18f-856d-4838-8a27-c09fe46981c1
+https://github.com/parthkanani123/WarCardGame/assets/112791725/9af5569c-1a79-48f4-8ae7-59f4a9df6a07
+
+
 
