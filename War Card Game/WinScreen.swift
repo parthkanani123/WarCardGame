@@ -42,7 +42,6 @@ struct WinScreen: View
                     .padding()
                 }
                 
-                
                 Spacer()
 
                 if viewModel.playerScore > 3
