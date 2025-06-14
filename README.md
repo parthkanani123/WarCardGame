@@ -11,3 +11,8 @@ based on the player and cpu card player's score and cpu's score is updated.
 
 
 
+➤ Added 12+ High-quality cards <br>
+➤ Developed userinterface by adding elite background, button, cards and scores  <br>
+➤ Implement Result screen which pop up when user or computer win or <br>
+lose the game after some iterations <br>
+➤ Tech Stack Used : Swift, SwiftUI, Xcode <br>
